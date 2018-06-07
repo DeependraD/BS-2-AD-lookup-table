@@ -1,0 +1,17 @@
+
+# php scraper
+http://nepalicalendar.rat32.com/index.php?year=2075&month=Shrawan
+
+inside following tags:
+
+html
+body
+#page
+#content
+#leftMiddle
+#father
+#cover
+div#main
+div#Cell1.cells
+div#nday
+font
